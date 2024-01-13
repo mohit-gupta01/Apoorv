@@ -129,7 +129,7 @@ const Navbar = (props) => {
         <div className={`${styles.Mcontainer} ${isTransparent ? styles.transparent : ''}`} id={'mainCont'} >
             <div className={styles.container}>
                 <div className={styles.logo} id={'logo'} onClick={(e) => { window.location.href = '/#home'; }}>
-                    <img src="/logo.svg" alt="logo" className={styles.logoImg} />
+                    <img src="/logo.png" alt="logo" className={styles.logoImg} />
                     <img src="/logoText.svg" alt="logo" className={styles.logoText} />
                 </div>
 

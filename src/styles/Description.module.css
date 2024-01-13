@@ -11,14 +11,13 @@
     background-color: #2e2d2d;
     /* background-color: #D9D9D9; */
     width: 100%;
-    
 }
 
 .main_div {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    background: var(--sponsors-bg);
+    background: #FE7062;
     margin: 0px 50px;
     color: white;
     padding: 5rem 0rem;
@@ -40,14 +39,15 @@
 }
 
 .body {
-    size: 1rem;
-    padding-right: 10px;
+    font-size: 1.25rem;
+    padding: 10px;
+    padding-left: 0px;
     font-family: var(--brand-body-font);
 
 }
 
 .spon {
-    width: 20rem;
+    /* width: 20rem; */
     height: 5rem;
     position: relative;
 
@@ -57,20 +57,18 @@
     width: 20rem;
     height: 5rem;
     position: relative;
-} */
+} */    
 
 .spon3 {
-    width: 20rem;
+    /* width: 20rem; */
     height: 5rem;
     position: relative;
-
 }
 
-.sponsors {
+.sponsors{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    
 }
 
 

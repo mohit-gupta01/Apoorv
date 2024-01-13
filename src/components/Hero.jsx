@@ -119,20 +119,20 @@ const Hero = () => {
             </div>
             <div className={styles.content}>
                 <div className={styles.head}>
-                    <h1>APOORV</h1>
-                    <h1>The first of it&apos;s kind</h1>
+                    <h1>The one of its</h1>
+                    <h1>kind event of the year</h1>
                 </div>
-                <p>A fest that celebrates both the innumerous shades of our culture<br />
-                    and the bluey horizons of technology with a tint of<br />
-                    literature in it too</p>
+                <p>A fest to mirror the beautiful chaos of nature and keep<br />
+                    you on your toes, stir your souls and spark your creative<br />
+                    flair.</p>
                 <div className={styles.buttonGroup}>
-                    <CollisionButton style={{ marginTop: "1rem", marginBottom: "1rem", padding: "0.5rem" }}>Register Here!</CollisionButton>
+                    <CollisionButton style={{ marginTop: "1rem", marginBottom: "1rem", padding: "0.5rem" }}>Register!</CollisionButton>
                 </div>
                 <div className={styles.link}>
+                    <div>MUSIC</div>
                     <div>ART</div>
-                    <div>CULTURE</div>
-                    <div>TALKS</div>
-                    <div>HACKATHONS</div>
+                    <div>DANCE</div>
+                    <div>DRAMA</div>
                 </div>
             </div>
 
